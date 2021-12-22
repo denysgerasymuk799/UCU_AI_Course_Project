@@ -1,0 +1,7 @@
+statsmodels
+numpy==1.19.2
+matplotlib
+pandas
+scikit-learn
+seaborn
+plotly
