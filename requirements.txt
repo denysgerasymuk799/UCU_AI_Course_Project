@@ -1,3 +1,9 @@
+imblearn
+bayesian-optimization
+optuna
+lightgbm
+xgboost
+graphviz
 statsmodels
 numpy==1.19.2
 matplotlib
