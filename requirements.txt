@@ -1,14 +1,12 @@
+tensorflow
+keras==2.2.5
 sklearn-utils
 imblearn
 bayesian-optimization
-optuna
-lightgbm
 xgboost
-graphviz
 statsmodels
 numpy==1.19.2
 matplotlib
 pandas
 scikit-learn
 seaborn
-plotly
