@@ -2,6 +2,10 @@
 
 **The aim of our project** is to identify if a person has diabetes or is likely to have one based on the chosen features.
 
+PDF presentation -- ./AI_Course_Project_Presentation.pdf
+
+Video presentation -- [link](https://www.youtube.com/watch?v=BCX9xmVEBfg)
+
 
 ## Idea description
 
